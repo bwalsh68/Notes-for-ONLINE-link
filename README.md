@@ -1,5 +1,6 @@
 # Notes-for-ONLINE-link
 Class Notes for online class
+
 Link List  - From the book  Chap 20   - These are just HIGHLIGHTS – look in the book for the actual code
 The List interface extends the Collection interface and defines a collection for storing elements in a sequential order. To create a list, use one of its two concrete classes: ArrayList or LinkedList.
 
